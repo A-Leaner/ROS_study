@@ -1,0 +1,2 @@
+messager
+-DCATKIN_DEVEL_PREFIX=/home/carol/ros_test/devel -DCMAKE_INSTALL_PREFIX=/home/carol/ros_test/install -G Unix Makefiles

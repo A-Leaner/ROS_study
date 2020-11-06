@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/carol/ros_test/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/carol/ros_test/install
+
+Name: messager
+Description: Description of messager
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
